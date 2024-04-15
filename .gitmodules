@@ -1,0 +1,3 @@
+[submodule "small-repo"]
+	path = small-repo
+	url = https://github.com/bergenhem/small-repo
